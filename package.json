@@ -1,0 +1,14 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "this is a chat application using socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://rajsknvr.in",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
